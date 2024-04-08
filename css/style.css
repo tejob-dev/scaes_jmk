@@ -8761,6 +8761,10 @@ div#mCSB_1_container{
   padding: 140px 0px 140px 0px;
 }
 
+.page-title.margtotop{
+  margin-top: 78px;
+}
+
 .page-title .bg-layer{
   position: absolute;
   left: 0px;
@@ -12789,7 +12793,16 @@ div#mCSB_1_container{
 
 
 
+/* CUSTOM CSS */
 
+body > div > section.team-section.sec-pad > div > div.row.clearfix > div {
+  margin: 10px;
+  padding: 0;
+}
+
+body > div > section.team-section.sec-pad > div > div.row {
+  justify-content: center;
+}
 
 
 
