@@ -1054,7 +1054,7 @@ img {
   transition:all 500ms ease;
 }
 
-.main-menu .navigation > li > a:before{
+.main-menu .navigation > li.dropdown > a:before{
   position: absolute;
   content: "\f114";
   font-family: 'flaticon';
@@ -5579,8 +5579,8 @@ div#mCSB_1_container{
   padding: 10px 0px 9px 0px;
   margin-bottom: 20px;
   margin-top: -48px;
-  left: 25%;
-  width: 50%;
+  left: 18%;
+  width: 65%;
   right: 25%;
   /* border-radius: 25px; */
 }
@@ -6906,7 +6906,7 @@ div#mCSB_1_container{
 .about-style-three{
   position: relative;
   background: #f3f7f5;
-  padding: 20px 0px 60px 0px;
+  padding: 50px 0px 60px 0px;
 }
 
 .about-style-three .image-box{
@@ -8853,7 +8853,7 @@ div#mCSB_1_container{
   content: '';
   background: #f5f5f5;
   width: 100%;
-  height: 50%;
+  height: 98%;
   left: 0px;
   bottom: 0px;
 }
@@ -12803,31 +12803,3 @@ body > div > section.team-section.sec-pad > div > div.row.clearfix > div {
 body > div > section.team-section.sec-pad > div > div.row {
   justify-content: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
